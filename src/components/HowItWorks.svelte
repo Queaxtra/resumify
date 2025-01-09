@@ -10,7 +10,7 @@
         {
             icon: 'ri-edit-box-line',
             title: 'Fill Details',
-            description: 'Use our smart editor to input your information. Our AI will help optimize your content for maximum impact and readability.'
+            description: 'Use our smart editor to input your information. Our intelligent system will help optimize your content for maximum impact and readability.'
         },
         {
             icon: 'ri-download-cloud-line',

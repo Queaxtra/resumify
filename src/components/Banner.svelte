@@ -9,7 +9,7 @@
                 in Minutes, Not Hours
             </h1>
             <p class="text-xl opacity-75 max-w-2xl mx-auto leading-relaxed">
-                Leverage AI-powered technology to create a professional resume that stands out. Tailored for your industry, optimized for success.
+                Leverage our advanced technology to create a professional resume that stands out. Tailored for your industry, optimized for success.
             </p>
         </div>
         

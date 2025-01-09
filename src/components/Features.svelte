@@ -10,7 +10,7 @@
         {
             icon: 'ri-edit-2-line',
             title: 'Smart Editor',
-            description: 'Easy-to-use editor with real-time preview and AI-powered suggestions'
+            description: 'Easy-to-use editor with real-time preview and intelligent suggestions'
         },
         {
             icon: 'ri-download-cloud-line',
@@ -74,7 +74,7 @@
 
         <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {#each features as feature, i}
-                <div class="feature-card bg-white p-8 rounded-3xl border border-gray-100 hover:border-primary/30 transition-all duration-300" style="transition-delay: {i * 100}ms">
+                <div class="feature-card bg-white p-8 rounded-3xl border border-gray-100 hover:border-primary/30 transition-all duration-300">
                     <div class="w-12 h-12 bg-primary/10 rounded-2xl flex items-center justify-center mb-6">
                         <i class="{feature.icon} text-2xl text-primary"></i>
                     </div>
